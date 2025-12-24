@@ -1,0 +1,26 @@
+{
+    "$schema": "sublime://packagecontrol.io/schemas/repository",
+    "schema_version": "4.0.0",
+    "packages": [
+        "GitGutter",
+        "GitSavvy",
+        "SublimeGit",
+        "C#",
+        "XAML",
+        "HTML-CSS-JS Prettify",
+        "Babel",
+        "SublimeLinter",
+        "SublimeLinter-eslint",
+        "SublimeLinter-contrib-stylelint",
+        "SublimeLinter-pylint",
+        "Emmet",
+        "BracketHighlighter",
+        "AllAutocomplete",
+        "AdvancedNewFile",
+        "SidebarEnhancements",
+        "ProjectManager",
+        "FileDiffs",
+        "GotoDocumentation"
+    ],
+    "libraries": []
+}
